@@ -1,5 +1,4 @@
 /* Author: Aman Patel
-Class: ECE 4122
 Last Date Modified: 10/13/2021
 Description: Calculating the solution of an Integral using the Rectangular Method
 */
