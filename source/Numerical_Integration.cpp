@@ -38,7 +38,7 @@ int main(int argc, char* argv[])
     VALUE = sum * x;
     // Streaming output to textfile
     std::ofstream myfile;
-    myfile.open("Lab2Prob2.txt");
+    myfile.open("output.txt");
     myfile << std::fixed << std::setprecision(6) << VALUE << std::endl;
     myfile.close();
 
